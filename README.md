@@ -4,7 +4,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![solution image](https://github.com/peternguyen777/frontendmentor-nftpreview/blob/main/screenshot.JPG)
 
 ### Built with
 
@@ -16,4 +16,3 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Author
 
 - Twitter - [@ptr_nguyen](https://www.twitter.com/ptr_nguyen)
-
